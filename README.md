@@ -15,7 +15,6 @@ StackUp is a casual 3D arcade game where players stack moving blocks on top of e
 - Perfect placement bonus system
 - Score tracking
 - High score saving using PlayerPrefs
-- 60 FPS target
 - WebGL and mobile development
 
 ### 🏆 Scoring System
