@@ -1,58 +1,46 @@
-\# StackUp
+# 🎮 StackUp
 
+**A 3D Arcade Stacking Game | Built with Unity & C#**
 
+---
 
-A 3D stacking game developed using Unity and C#.
+### 📌 About the Game
 
+StackUp is a casual 3D arcade game where players stack moving blocks on top of each other. Test your timing and precision to build the tallest tower and achieve a high score.
 
+### ✨ Features
 
-\## About the Project
+- 3D stacking gameplay
+- Precision-based placement mechanics
+- Perfect placement bonus system
+- Score tracking
+- High score saving using PlayerPrefs
+- WebGL and mobile development
 
-StackUp is a casual arcade-style game where players stack moving blocks to build the tallest possible tower. The game rewards precision and timing through a scoring system.
+### 🏆 Scoring System
 
+| Action | Points |
+|---|---:|
+| Normal Placement | +1 |
+| Perfect Placement | +3 |
 
+### 🛠️ Technologies Used
 
-\## Features
+- **Engine:** Unity 6
+- **Language:** C#
+- **Data Storage:** PlayerPrefs
 
-\- 3D stacking gameplay
+---
 
-\- Perfect placement bonus system
+### 👨‍💻 Developer
 
-\- Score tracking
+**Aneeq Mughal**
 
-\- High score saving using PlayerPrefs
+BS Computer Science Student  
+Aspiring Unity Gameplay Programmer
 
-\- WebGL and mobile development
+[GitHub Profile](https://github.com/aneeqmughal404)
 
+---
 
-
-\## Scoring System
-
-\- Normal placement: +1 point
-
-\- Perfect placement: +3 points
-
-
-
-\## Built With
-
-\- Unity 6
-
-\- C#
-
-\- Unity PlayerPrefs
-
-
-
-\## Developer
-
-\*\*Aneeq Mughal\*\*
-
-
-
-BS Computer Science Student | Aspiring Unity Gameplay Programmer
-
-
-
-\[GitHub Profile](https://github.com/aneeqmughal404)
-
+*Developed as a game development project.*
