@@ -32,6 +32,20 @@ StackUp is a casual 3D arcade game where players stack moving blocks on top of e
 
 ---
 
+## 📸 Screenshots
+
+![Main Menu](Screenshots/Main%20Menu.png)
+
+![Gameplay](Screenshots/Gameplay.png)
+
+![Perfect Placement](Screenshots/Perfect%20Placement.png)
+
+![Pause Menu](Screenshots/Pause%20Menu.png)
+
+![Game Over](Screenshots/Game%20Over.png)
+
+---
+
 ### 👨‍💻 Developer
 
 **Aneeq Mughal**
