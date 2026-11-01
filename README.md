@@ -32,7 +32,7 @@ StackUp is a casual 3D arcade game where players stack moving blocks on top of e
 
 ---
 
-## 📸 Screenshots
+### 📸 Screenshots
 
 ![Main Menu](Screenshots/Main%20Menu.png)
 
